@@ -3,6 +3,7 @@
 Created on Wed Dec  6 10:51:14 2017
 
 @author: wangjingyi
+@reference code: https://github.com/pumpikano/tf-dann
 """
 
 import tensorflow as tf
